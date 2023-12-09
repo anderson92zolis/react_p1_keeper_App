@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# react_p1_keeper_App
-The Keeper App is a simple and intuitive note-taking application built using React. It provides users with a clean and organized interface to create, edit, and delete notes effortlessly. The app is designed to be user-friendly, making it a perfect solution for keeping track of tasks, ideas, and anything else that comes to mind.
->>>>>>> be4e4771b68717bf133a98bdb37df7b630089766

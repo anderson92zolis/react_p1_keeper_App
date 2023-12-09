@@ -1,5 +1,8 @@
 ## Keeper App
 
+
+![keeper_App](https://github.com/anderson92zolis/react_p1_keeper_App/blob/main/photo/Captura%20of%20the%20Keeper%20App.PNG)
+
 This is a simple React application that demonstrates how to create a header, footer, and notes component.
 
 ### Instructions
@@ -15,6 +18,9 @@ This is a simple React application that demonstrates how to create a header, foo
 1. Make sure that the final website is styled like the example shown here:
 [final website](https://l1pp6.csb.app/)
 >HINT: You will need to study the classes in teh styles.css file to appy styling.
+
+
+<br>
 
 # Getting Started with Create React App
 

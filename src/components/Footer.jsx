@@ -1,11 +1,13 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+
 
 function Footer() {
+
+  const currentYear = new Date().getFullYear();
     return (
-      <div>
-       <p>© CopyRight 2023 All rights reserved.</p>
-      </div>
+      <footer >
+       <p>© CopyRight {currentYear} All rights reserved.</p>
+      </footer>
     )
   }
 

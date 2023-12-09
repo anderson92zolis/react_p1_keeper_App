@@ -1,13 +1,12 @@
 import React from "react"
-import ReactDOM from "react-dom/client"
-import Heading from "./Heading"
 import Note from "./Note"
 import Footer from "./Footer"
+import Header from "./Header"
 
 function App() {
     return (
       <div>
-        <Heading/>
+        <Header/>
         <Note/>
         <Footer/>
       </div>

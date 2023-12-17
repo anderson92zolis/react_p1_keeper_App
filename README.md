@@ -3,10 +3,12 @@
 
 ![keeper_App](https://github.com/anderson92zolis/react_p1_keeper_App/blob/main/photo/Captura%20of%20the%20Keeper%20App.PNG)
 
+
 This is a simple React application that demonstrates how to create a header, footer, and notes component.
 
 ### Instructions
 
+**Goal 1**
 1. Create a new React app.
 1. Create a App.jsx component.
 1. Create a Header.jsx component that renders a `<header>` element
@@ -21,5 +23,11 @@ This is a simple React application that demonstrates how to create a header, foo
 
 
 <br>
+
+**Goal 2**
+
+![Keeper App with Json file](https://github.com/anderson92zolis/react_p1_keeper_App/blob/main/photo/adding%20a%20json%20file%20for%20notes.jpg)
+
+1. Modify the `App` code to add extra functionalities such as using a JSON file to add notes automatically, iterating over the array via `map`, and using arrow functions.
 
 
